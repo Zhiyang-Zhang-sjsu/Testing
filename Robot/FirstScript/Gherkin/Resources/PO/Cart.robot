@@ -3,7 +3,7 @@ Library    SeleniumLibrary
 
 *** Keywords ***
 Verify Product Added
-    Wait Until Page Contains  Added to Cart
+    Wait Until Page Contains  Cart subtotal
 
 Proceed to Checkout
-    Click Link  id=hlb-ptc-btn-native
+    Click Link    id=hlb-ptc-btn-native
