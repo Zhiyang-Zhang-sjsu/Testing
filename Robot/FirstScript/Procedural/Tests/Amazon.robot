@@ -1,7 +1,7 @@
 *** Settings ***
 Documentation    This is some basic info about the whole suite
 Resource    ../Resources/Common.robot  # for Setup & Teardown
-Resource    ../Resources/Amazon.robot  # for lower level keywords in test cases
+Resource    ../Resources/AmazonApp.robot  # for lower level keywords in test cases
 Test Setup    Common.Begin Web Test
 Test Teardown    Common.End Web Test
 
