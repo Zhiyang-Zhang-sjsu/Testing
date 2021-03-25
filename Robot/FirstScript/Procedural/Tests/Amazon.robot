@@ -9,17 +9,22 @@ Test Teardown    Common.End Web Test
 ${BROWSER} =    chrome
 ${START_URL} =    https://www.amazon.com
 ${SEARCH_TERM} =    Ferrari 458
+${LOGIN_EMAIL} =    admin@robotframework.com
+${LOGIN_PASSWORD} =    myPassword
 
 *** Test Cases ***
-Logged out user can search for products
+Should be able to login
+    AmazonApp.Login    ${LOGIN_EMAIL}    ${LOGIN_PASSWORD}
+
+Logged out user should be able to search for products
     [Tags]    Current
     AmazonApp.Search for Products
 
-Logged out user can view a product
+Logged out user should be able to view a product
     AmazonApp.Search for Products
     AmazonApp.Select Product from Search Results
 
-Logged out user can add product to cart
+Logged out user should be able to add product to cart
     AmazonApp.Search for Products
     AmazonApp.Select Product from Search Results
     AmazonApp.Add Product to Cart
