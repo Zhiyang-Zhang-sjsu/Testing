@@ -1,18 +1,19 @@
-2021-11-09 04:08:45,246 get_twitter_data.py INFO  <module>  Test case: twitter_data_analysis is running
-2021-11-09 04:08:45,255 execl_test_data_management.py INFO  run_test_data  ************BBC Breaking News************
-2021-11-09 04:08:45,255 execl_test_data_management.py INFO  run_test_data  Running: Open a browser
-2021-11-09 04:08:47,751 execl_test_data_management.py INFO  run_test_data  Running: Visit a web page
-2021-11-09 04:08:48,714 execl_test_data_management.py INFO  run_test_data  Running: Click "Sign in" button
-2021-11-09 04:08:49,464 execl_test_data_management.py INFO  run_test_data  Running: Click “Use phone, email or username” button
-2021-11-09 04:08:49,600 execl_test_data_management.py INFO  run_test_data  Running: Type username 
-2021-11-09 04:08:52,537 execl_test_data_management.py INFO  run_test_data  Running: Click "Next" button
-2021-11-09 04:08:52,645 execl_test_data_management.py INFO  run_test_data  Running: Type phone number
-2021-11-09 04:08:53,249 execl_test_data_management.py INFO  run_test_data  Running: Click "Next" button
-2021-11-09 04:08:53,309 execl_test_data_management.py INFO  run_test_data  Running: Type password
-2021-11-09 04:08:53,617 execl_test_data_management.py INFO  run_test_data  Running: Click "Log in" button
-2021-11-09 04:08:53,685 execl_test_data_management.py INFO  run_test_data  Running: Go into "Profile"
-2021-11-09 04:08:54,619 execl_test_data_management.py INFO  run_test_data  Running: Click "Following"
-2021-11-09 04:08:54,905 execl_test_data_management.py INFO  run_test_data  Running: Go into "BBC Breaking News"
-2021-11-09 04:08:55,616 execl_test_data_management.py INFO  run_test_data  Running: Get browser driver
-2021-11-09 04:08:55,616 get_twitter_data.py INFO  <module>  Getting BBC Breaking News data!
-2021-11-09 04:08:57,616 get_twitter_data.py INFO  <module>  BBC Breaking News data extracted!
+2021-11-09 23:12:32,360 get_twitter_data.py INFO  <module>  Test case: twitter_data_analysis is running
+2021-11-09 23:12:32,369 execl_test_data_management.py INFO  run_test_data  ************BBC Breaking News************
+2021-11-09 23:12:32,369 execl_test_data_management.py INFO  run_test_data  Running: Open a browser
+2021-11-09 23:12:34,435 execl_test_data_management.py INFO  run_test_data  Running: Visit a web page
+2021-11-09 23:12:35,320 execl_test_data_management.py INFO  run_test_data  Running: Click "Sign in" button
+2021-11-09 23:12:35,968 execl_test_data_management.py INFO  run_test_data  Running: Click “Use phone, email or username” button
+2021-11-09 23:12:36,179 execl_test_data_management.py INFO  run_test_data  Running: Type username 
+2021-11-09 23:12:39,159 execl_test_data_management.py INFO  run_test_data  Running: Click "Next" button
+2021-11-09 23:12:39,238 execl_test_data_management.py INFO  run_test_data  Running: Type phone number
+2021-11-09 23:12:39,723 execl_test_data_management.py INFO  run_test_data  Running: Click "Next" button
+2021-11-09 23:12:39,804 execl_test_data_management.py INFO  run_test_data  Running: Type password
+2021-11-09 23:12:40,113 execl_test_data_management.py INFO  run_test_data  Running: Click "Log in" button
+2021-11-09 23:12:40,199 execl_test_data_management.py INFO  run_test_data  Running: Go into "Profile"
+2021-11-09 23:12:41,109 execl_test_data_management.py INFO  run_test_data  Running: Click "Following"
+2021-11-09 23:12:41,403 execl_test_data_management.py INFO  run_test_data  Running: Go into "BBC Breaking News"
+2021-11-09 23:12:42,170 execl_test_data_management.py INFO  run_test_data  Running: Asserting
+2021-11-09 23:12:42,234 execl_test_data_management.py INFO  run_test_data  Running: Get browser driver
+2021-11-09 23:12:42,234 get_twitter_data.py INFO  <module>  Getting BBC Breaking News data!
+2021-11-09 23:12:45,220 get_twitter_data.py INFO  <module>  BBC Breaking News data extracted!
