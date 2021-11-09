@@ -73,7 +73,7 @@ class WebUIKeywords:
     def assert_text(self, by, value, expected_result):
         try:
             testing_result = self.__element_wait_explicitly(by, value).text
-            assert expected_result == testing_result, f"Assertion fails: {expected_result} is the expected result!"
+            assert expected_result == testing_result, f"Assertion fails: expected result - {expected_result}, testing result - {testing_result}!"
             return True
         except Exception as e:
             self.log.exception(f"Exception: {e}!")
