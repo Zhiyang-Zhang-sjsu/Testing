@@ -69,3 +69,12 @@ class WebUIKeywords:
 
     def quit(self):
         self.__driver.quit()
+
+    def assert_text(self, by, value, expected_result):
+        try:
+            testing_result = self.__element_wait_explicitly(by, value).text
+            assert expected_result == testing_result, f"Assertion fails: {expected_result} is the expected result!"
+            return True
+        except Exception as e:
+            self.log.exception(f"Exception: {e}")
+            return False
