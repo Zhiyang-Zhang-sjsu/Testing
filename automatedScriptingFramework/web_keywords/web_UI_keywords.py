@@ -76,5 +76,5 @@ class WebUIKeywords:
             assert expected_result == testing_result, f"Assertion fails: {expected_result} is the expected result!"
             return True
         except Exception as e:
-            self.log.exception(f"Exception: {e}")
+            self.log.exception(f"Exception: {e}!")
             return False
