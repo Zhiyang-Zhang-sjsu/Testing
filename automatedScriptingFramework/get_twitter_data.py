@@ -45,6 +45,9 @@ if __name__ == "__main__":
                     log.info("Only supports excel files for test cases")
 
     for following, following_driver in drivers.items():
+        if following_driver == None:
+            continue
+
         log.info(f"Getting {following} data!")
         following_on_twitter = GetFollowingsDataOnTwitter(drivers[following])
         following_data = following_on_twitter.string_to_class(FOLLOWING_CLASSES[following])(following_on_twitter.get_driver())
