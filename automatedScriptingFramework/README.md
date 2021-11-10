@@ -12,6 +12,11 @@ Failed
 ``` 
 ![1636508261](https://user-images.githubusercontent.com/43052894/141034252-2090b8aa-ee6a-428b-90e2-b1aa645b5658.png)
 
+## Test cases
+![success](https://user-images.githubusercontent.com/43052894/141040640-09871641-cc79-47f1-a666-74f191cdce38.png)
+
+![failure](https://user-images.githubusercontent.com/43052894/141040644-1edc8c13-3207-4375-ad16-b45262f3638a.png)
+
 
 ## BBC News crawled by the framework
 ![1636435425(1)](https://user-images.githubusercontent.com/43052894/140867393-a9c96dbd-ccf5-44bf-abff-f399015e6083.png)
