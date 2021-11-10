@@ -1,18 +1,8 @@
 # Automated scripting framework
 #### This is a keyword-driven and data-driven framework for web UI testing and crawling web data with logging and test report. 
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-
 ## The framework running console
-```diff
-Assertion passed
-```
++Assertion passed
 ![1636508134(1)](https://user-images.githubusercontent.com/43052894/141034246-66e27d93-f5f2-4d68-a2eb-4ff096fc8b7d.png)
 
 Assertion failed
