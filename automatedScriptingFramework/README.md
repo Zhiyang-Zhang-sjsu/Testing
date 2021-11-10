@@ -13,8 +13,10 @@ Failed
 ![1636508261](https://user-images.githubusercontent.com/43052894/141034252-2090b8aa-ee6a-428b-90e2-b1aa645b5658.png)
 
 ## Test cases
+### Test case 1
 ![success](https://user-images.githubusercontent.com/43052894/141040640-09871641-cc79-47f1-a666-74f191cdce38.png)
 
+### Test case 2
 ![failure](https://user-images.githubusercontent.com/43052894/141040644-1edc8c13-3207-4375-ad16-b45262f3638a.png)
 
 
