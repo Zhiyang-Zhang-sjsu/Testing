@@ -1,8 +1,6 @@
 # Automated scripting framework
 #### This is a keyword-driven and data-driven framework for web UI testing and crawling web data with logging and test report. 
 
-<font color="red">This is some text!</font>
-
 ## The framework running console
 ```css 
 Assertion passed
