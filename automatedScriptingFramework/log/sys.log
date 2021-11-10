@@ -1,19 +1,41 @@
-2021-11-09 23:12:32,360 get_twitter_data.py INFO  <module>  Test case: twitter_data_analysis is running
-2021-11-09 23:12:32,369 execl_test_data_management.py INFO  run_test_data  ************BBC Breaking News************
-2021-11-09 23:12:32,369 execl_test_data_management.py INFO  run_test_data  Running: Open a browser
-2021-11-09 23:12:34,435 execl_test_data_management.py INFO  run_test_data  Running: Visit a web page
-2021-11-09 23:12:35,320 execl_test_data_management.py INFO  run_test_data  Running: Click "Sign in" button
-2021-11-09 23:12:35,968 execl_test_data_management.py INFO  run_test_data  Running: Click “Use phone, email or username” button
-2021-11-09 23:12:36,179 execl_test_data_management.py INFO  run_test_data  Running: Type username 
-2021-11-09 23:12:39,159 execl_test_data_management.py INFO  run_test_data  Running: Click "Next" button
-2021-11-09 23:12:39,238 execl_test_data_management.py INFO  run_test_data  Running: Type phone number
-2021-11-09 23:12:39,723 execl_test_data_management.py INFO  run_test_data  Running: Click "Next" button
-2021-11-09 23:12:39,804 execl_test_data_management.py INFO  run_test_data  Running: Type password
-2021-11-09 23:12:40,113 execl_test_data_management.py INFO  run_test_data  Running: Click "Log in" button
-2021-11-09 23:12:40,199 execl_test_data_management.py INFO  run_test_data  Running: Go into "Profile"
-2021-11-09 23:12:41,109 execl_test_data_management.py INFO  run_test_data  Running: Click "Following"
-2021-11-09 23:12:41,403 execl_test_data_management.py INFO  run_test_data  Running: Go into "BBC Breaking News"
-2021-11-09 23:12:42,170 execl_test_data_management.py INFO  run_test_data  Running: Asserting
-2021-11-09 23:12:42,234 execl_test_data_management.py INFO  run_test_data  Running: Get browser driver
-2021-11-09 23:12:42,234 get_twitter_data.py INFO  <module>  Getting BBC Breaking News data!
-2021-11-09 23:12:45,220 get_twitter_data.py INFO  <module>  BBC Breaking News data extracted!
+2021-11-10 01:34:38,234 get_twitter_data.py INFO  <module>  Test case: twitter_data_analysis is running
+2021-11-10 01:34:38,244 execl_test_data_management.py INFO  run_test_data  ************BBC Breaking News************
+2021-11-10 01:34:38,244 execl_test_data_management.py INFO  run_test_data  Running: Open a browser
+2021-11-10 01:34:40,682 execl_test_data_management.py INFO  run_test_data  Running: Visit a web page
+2021-11-10 01:34:41,604 execl_test_data_management.py INFO  run_test_data  Running: Click "Sign in" button
+2021-11-10 01:34:42,190 execl_test_data_management.py INFO  run_test_data  Running: Click “Use phone, email or username” button
+2021-11-10 01:34:42,491 execl_test_data_management.py INFO  run_test_data  Running: Type username 
+2021-11-10 01:34:45,406 execl_test_data_management.py INFO  run_test_data  Running: Click "Next" button
+2021-11-10 01:34:45,473 execl_test_data_management.py INFO  run_test_data  Running: Type phone number
+2021-11-10 01:34:46,092 execl_test_data_management.py INFO  run_test_data  Running: Click "Next" button
+2021-11-10 01:34:46,160 execl_test_data_management.py INFO  run_test_data  Running: Type password
+2021-11-10 01:34:46,545 execl_test_data_management.py INFO  run_test_data  Running: Click "Log in" button
+2021-11-10 01:34:46,656 execl_test_data_management.py INFO  run_test_data  Running: Go into "Profile"
+2021-11-10 01:34:47,522 execl_test_data_management.py INFO  run_test_data  Running: Click "Following"
+2021-11-10 01:34:47,782 execl_test_data_management.py INFO  run_test_data  Running: Go into "BBC Breaking News"
+2021-11-10 01:34:48,515 execl_test_data_management.py INFO  run_test_data  Running: Asserting
+2021-11-10 01:34:48,577 execl_test_data_management.py INFO  run_test_data  Running: Get browser driver
+2021-11-10 01:34:48,577 get_twitter_data.py INFO  <module>  Getting BBC Breaking News data!
+2021-11-10 01:34:50,586 get_twitter_data.py INFO  <module>  BBC Breaking News data extracted!
+2021-11-10 01:36:53,593 get_twitter_data.py INFO  <module>  Test case: twitter_data_analysis is running
+2021-11-10 01:36:53,601 execl_test_data_management.py INFO  run_test_data  ************BBC Breaking News************
+2021-11-10 01:36:53,601 execl_test_data_management.py INFO  run_test_data  Running: Open a browser
+2021-11-10 01:36:55,686 execl_test_data_management.py INFO  run_test_data  Running: Visit a web page
+2021-11-10 01:36:56,592 execl_test_data_management.py INFO  run_test_data  Running: Click "Sign in" button
+2021-11-10 01:36:57,222 execl_test_data_management.py INFO  run_test_data  Running: Click “Use phone, email or username” button
+2021-11-10 01:36:57,402 execl_test_data_management.py INFO  run_test_data  Running: Type username 
+2021-11-10 01:37:00,317 execl_test_data_management.py INFO  run_test_data  Running: Click "Next" button
+2021-11-10 01:37:00,408 execl_test_data_management.py INFO  run_test_data  Running: Type phone number
+2021-11-10 01:37:01,010 execl_test_data_management.py INFO  run_test_data  Running: Click "Next" button
+2021-11-10 01:37:01,087 execl_test_data_management.py INFO  run_test_data  Running: Type password
+2021-11-10 01:37:01,451 execl_test_data_management.py INFO  run_test_data  Running: Click "Log in" button
+2021-11-10 01:37:01,552 execl_test_data_management.py INFO  run_test_data  Running: Go into "Profile"
+2021-11-10 01:37:02,423 execl_test_data_management.py INFO  run_test_data  Running: Click "Following"
+2021-11-10 01:37:02,714 execl_test_data_management.py INFO  run_test_data  Running: Go into "BBC Breaking News"
+2021-11-10 01:37:03,460 execl_test_data_management.py INFO  run_test_data  Running: Asserting
+2021-11-10 01:37:03,503 web_UI_keywords.py ERROR  assert_text  Exception: Assertion fails: expected result - cnn.co.uk/news, testing result - bbc.co.uk/news!!
+Traceback (most recent call last):
+  File "/home/cmpe/usr/Projects/automatedScriptingFramework/web_keywords/web_UI_keywords.py", line 76, in assert_text
+    assert expected_result == testing_result, f"Assertion fails: expected result - {expected_result}, testing result - {testing_result}!"
+AssertionError: Assertion fails: expected result - cnn.co.uk/news, testing result - bbc.co.uk/news!
+2021-11-10 01:37:03,512 execl_test_data_management.py INFO  run_test_data  Running: Get browser driver
