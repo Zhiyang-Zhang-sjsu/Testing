@@ -1,7 +1,7 @@
 # Automated scripting framework
 #### This is a keyword-driven and data-driven framework for web UI testing and crawling web data with logging and test report. 
 
-### - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+Hello)
+<font color="red">This is some text!</font>
 
 ## The framework running console
 ```css 
