@@ -10,7 +10,6 @@ Assertion passed
 ```js
 Assertion failed 
 ``` 
-
 ![1636508261](https://user-images.githubusercontent.com/43052894/141034252-2090b8aa-ee6a-428b-90e2-b1aa645b5658.png)
 
 
