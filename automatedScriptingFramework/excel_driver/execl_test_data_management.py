@@ -40,9 +40,11 @@ class ExeclTestDataManagement:
                             keywords = WebUIKeywords(data['text'], log)
                         else:
                             res = getattr(keywords, values[1])(**data)
-                            if values[1] == "get_driver":
+                            if name not in driver and values[1] == "get_driver" :
                                 driver[name] = res
                             elif "assert" in values[1]:
+                                if res == False:
+                                    driver[name] = None
                                 self.write_result(sheet.cell, TESTING_RESULT_ROW, TESTING_RESULT_COL, res)
                                 excel.save(file)
         except Exception as e:
