@@ -1,17 +1,11 @@
 # Automated scripting framework
 #### This is a keyword-driven and data-driven framework for web UI testing and crawling web data with logging and test report. 
 
-
-- This is a red colored line
-+ This is a green colored line
-@@ This is a purple colored line @@
-
-
 ## The framework running console
-+ [Categories] (### Assertion passed)
+Assertion passed
 ![1636508134(1)](https://user-images.githubusercontent.com/43052894/141034246-66e27d93-f5f2-4d68-a2eb-4ff096fc8b7d.png)
 
-### Assertion failed
+Assertion failed
 ![1636508261](https://user-images.githubusercontent.com/43052894/141034252-2090b8aa-ee6a-428b-90e2-b1aa645b5658.png)
 
 
