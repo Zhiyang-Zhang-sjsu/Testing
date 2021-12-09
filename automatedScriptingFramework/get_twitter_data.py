@@ -5,7 +5,7 @@ from followings.get_bbc_breaking_news_data import GetBBCBreakingNewsData
 from settings.log_settings import log_conf
 from excel_driver.execl_test_data_management import ExeclTestDataManagement
 
-TEST_CASE_FILE_EXTENTION = ".xlsx"
+TEST_CASE_FILE_EXTENSION = ".xlsx"
 TEST_CASE_DIR = "data/test_data/excel"
 LOG_SETTING_FILE = "./settings/log_settings/log.ini"
 FOLLOWING_CLASSES = {
@@ -35,7 +35,7 @@ if __name__ == "__main__":
     for path, direcotry, files in os.walk(TEST_CASE_DIR):
         for file in files:
             file_name, file_type = os.path.splitext(file)
-            if file_type == TEST_CASE_FILE_EXTENTION:
+            if file_type == TEST_CASE_FILE_EXTENSION:
                 if "deprecated" not in file_name:
                     log.info(f"Test case: {file_name} is running")
                     execl_test_data_management = ExeclTestDataManagement()
